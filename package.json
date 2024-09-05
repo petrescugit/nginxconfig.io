@@ -53,7 +53,7 @@
     "prismjs": "^1.29.0",
     "qs": "^6.11.2",
     "simple-js-sha2-256": "^1.0.7",
-    "vue": "^3.3.4",
+    "vue": "^3.3.5",
     "vue-i18n": "^9.2.2",
     "vue-select": "^4.0.0-beta.6",
     "webpack-require-from": "^1.8.6"
